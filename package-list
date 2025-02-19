@@ -5,6 +5,8 @@ javolution.lang
 javolution.testing
 javolution.text
 javolution.util
+javolution.util.internal
+javolution.util.internal.collection
 javolution.xml
 javolution.xml.sax
 javolution.xml.stream
